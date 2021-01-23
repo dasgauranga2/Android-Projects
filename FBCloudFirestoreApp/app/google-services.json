@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976070605990",
+    "project_id": "fb-cloud-firestore-d78e0",
+    "storage_bucket": "fb-cloud-firestore-d78e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976070605990:android:e2057a8a6b0e5cd3d5c867",
+        "android_client_info": {
+          "package_name": "com.example.fbcloudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976070605990-vbkucittbhtm2lbsv97ql9mmp78lpsf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUFX52eE3MZcPOdzq1PgBC7YXHo-6vXGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976070605990-vbkucittbhtm2lbsv97ql9mmp78lpsf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
