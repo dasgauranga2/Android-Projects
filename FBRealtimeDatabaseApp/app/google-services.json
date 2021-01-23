@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889095689008",
+    "project_id": "fb-realtime-database-de501",
+    "storage_bucket": "fb-realtime-database-de501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889095689008:android:9bd79f5f6208a934302ef5",
+        "android_client_info": {
+          "package_name": "com.example.fbrealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889095689008-i6pq4v8bvhbbg932ap5dv31frjqnf5e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACFjgnreOnrvu4Lwra8M82_nw1dqBtTGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889095689008-i6pq4v8bvhbbg932ap5dv31frjqnf5e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
