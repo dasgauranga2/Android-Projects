@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776585725823",
+    "project_id": "fb-user-authentication-5d258",
+    "storage_bucket": "fb-user-authentication-5d258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776585725823:android:bcde9b5684437f2b8f3c4a",
+        "android_client_info": {
+          "package_name": "com.example.fbuserauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776585725823-mbpsi80iskoqmce9h4ii63afnhq7jv2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnQyFj_KH1Qd5n5aJ527kSErq_5E6nfuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776585725823-mbpsi80iskoqmce9h4ii63afnhq7jv2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
